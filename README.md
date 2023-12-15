@@ -14,5 +14,5 @@
 - 크롤링 > LDA 토큰화 > 데이터 표준화 > LASSO > FVE > FPE
 ## 시각화
 - pyLDAvis
-- Goole
+- Jupyter Notebook
 - ppt
