@@ -12,6 +12,9 @@
 - 거래량 수집 내용 : 기업 '에스원'의 거래량 2019.01~ 2023.10
 ## Framework(프레임워크)
 - 크롤링 > LDA 토큰화 > 데이터 표준화 > LASSO > FVE > FPE
+## LDA 토큰화
+- CSV 불러오기 > 형태소분석기 konlpy > Mecab > 정규표현식 > 한글자 제거 > 불용어 처리(248개)
+- CSV 불러오기 > 형태소분석기 konlpy >  OKt  > 정규표현식 > 한글자 제거 > 불용어 처리(8개)
 ## 시각화
 - pyLDAvis
 - Jupyter Notebook
