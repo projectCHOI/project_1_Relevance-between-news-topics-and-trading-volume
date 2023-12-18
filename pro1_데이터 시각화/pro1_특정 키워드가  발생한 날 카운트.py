@@ -10,7 +10,7 @@ data = pd.read_csv('news.csv')  # 로컬 파일 경로로 수정
 data['date'] = pd.to_datetime(data['date'])  # 날짜 형식 변환
 
 # 제공된 키워드 리스트
-keywords = ["에스원"]
+keywords = ["에스원", "추가"]
 
 # 지정된 기간 설정
 start_date = '2019-01-01'
