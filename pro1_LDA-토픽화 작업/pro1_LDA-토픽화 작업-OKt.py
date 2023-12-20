@@ -165,13 +165,3 @@ for t in lda. print_topics():
 lda_display = gensimvis.prepare(lda, corpus_TFIDF, id2word)
 # pyLDAvis 결과 시각화
 pyLDAvis.display(lda_display)
-
-# 그래프 이름 : Intertopic Distance Map : 주제간 거리지도
-# 단어
-# Selected Topic : 토픽지정
-# Previous Topic : 이전 주제
-# Next Topic : 다음주제
-# Clear Topic : 주제 지우기
-
-# Slide to adjust relevance metric :관련성 지표
-# Top-30 Most Relevant Terms for Topic X (2.3% of tokens) : 토큰 X에 관련한 가장 연관있는 단어
