@@ -1,3 +1,4 @@
+# project_1_Relevance-between-news-topics-and-trading-volume
 ## project 주제
 - 논문은 비즈니스 뉴스에서 고품질 주제(토픽)를 추출하여, 비정상적인 주식시장 변동성(거래량)을 설명하는 내용이다.
 - project1은 논문을 기반으로 기업 '에스원'의 변동성에 대한 토픽분석을 수행하는 것이 목표이다.
